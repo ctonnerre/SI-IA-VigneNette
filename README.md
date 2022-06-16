@@ -1,5 +1,5 @@
 # SI-IA-VigneNette
-Support formation IA : DeepLearning Matlab détection maladie de la vigne
+Support formation IA : DeepLearning avec Matlab pour la détection des maladies de la vigne
 
 Vous trouverez tous les fichiers de mise en oeuvre de deep learning (transfer learning) avec Matlab pour l'application VigneNette.
 Toute la documentation est sur le [cloud Canoprof ](https://tonnerre.canoprof.fr/eleve/Ressources-SI/IA%20VigneNette%20(D%C3%A9tection%20des%20maladies%20sur%20les%20feuilles%20de%20vigne%20-%20Deep%20Learning%20avec%20Matlab))
